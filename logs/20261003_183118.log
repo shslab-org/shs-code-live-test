@@ -1,0 +1,8 @@
+2026-10-03 18:31:18,287 | WARNING  | agent=system step=0 trace=———— task= | shscode:<module>:132 — SHSCODE_ALLOWED_ORIGINS not set — CORS allows all origins. Set SHSCODE_ALLOWED_ORIGINS in production to restrict access.
+2026-10-03 18:31:18,428 | WARNING  | agent=system step=0 trace=———— task= | shscode:_lifespan:51 — SHSCODE_API_KEY not set — all endpoints are UNAUTHENTICATED. Set SHSCODE_API_KEY in production.
+2026-10-03 18:31:18,442 | INFO     | agent=system step=0 trace=———— task= | shscode:_lifespan:63 — [Server] Git identity enforced: SHS-Code-Agent (git shim active: True) — mandatory, no opt-out
+2026-10-03 18:31:18,442 | INFO     | agent=system step=0 trace=———— task= | shscode:_lifespan:69 — SHS Code Agent Server started.
+2026-10-03 18:32:06,106 | DEBUG    | agent=system step=0 trace=———— task= | shscode:_init_client:86 — git_providers.github PyGithub not available, using REST fallback
+2026-10-03 18:32:06,532 | INFO     | agent=system step=0 trace=———— task= | shscode:chat_websocket_endpoint:1413 — [Server] Chat WebSocket connected: gui-musqb7fb
+2026-10-03 18:36:07,618 | INFO     | agent=system step=0 trace=———— task= | shscode:chat_websocket_endpoint:1466 — [Server] Chat WebSocket disconnected: gui-musqb7fb
+2026-10-03 18:36:07,719 | INFO     | agent=system step=0 trace=———— task= | shscode:_lifespan:101 — SHS Code Agent Server shut down cleanly.
