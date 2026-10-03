@@ -1,0 +1,7 @@
+README.md
+agent_note.txt
+config.toml
+detached_files.txt
+detached_note.txt
+logs
+workspace
